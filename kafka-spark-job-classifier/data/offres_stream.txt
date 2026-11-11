@@ -1,0 +1,38 @@
+Orange Maroc recherche un Data Engineer pour construire des pipelines Spark et Kafka sur sa plateforme Big Data.
+Stage PFE : développement d'une application web Spring Boot / Angular pour la gestion des réclamations clients.
+Banque basée à Casablanca recrute un analyste SOC N1/N2 pour la surveillance 24/7 de son SIEM Splunk.
+Nous recherchons un ingénieur DevOps maîtrisant Kubernetes, Terraform et GitLab CI pour notre migration vers AWS.
+Startup Rabat cherche une développeuse React Native pour son application mobile de livraison.
+Poste de Data Analyst : création de tableaux de bord Power BI et requêtes SQL pour l'équipe marketing.
+Pentester confirmé pour des missions d'audit d'applications web et mobiles (OWASP, Burp Suite).
+Architecte Cloud Azure pour concevoir une landing zone et accompagner la migration de 200 serveurs.
+We are hiring a backend developer (Node.js, PostgreSQL) to build our payments API. Remote friendly.
+Machine Learning Engineer wanted to deploy recommendation models in production with MLflow.
+Consultant GRC pour accompagner nos clients dans la mise en conformité ISO 27001 et la loi 09-08.
+SRE pour garantir la disponibilité de notre plateforme : Prometheus, Grafana, astreintes, Kubernetes.
+Développeur PHP Laravel pour la refonte de notre site e-commerce. CDI à Marrakech.
+Data Scientist NLP : classification automatique de tickets clients en darija et en français.
+Ingénieur sécurité réseau pour administrer nos firewalls Fortinet et Palo Alto et nos VPN.
+Cloud engineer GCP: BigQuery, Cloud Run, Terraform. Hybrid in Paris.
+Rejoignez notre équipe en tant que développeur Java pour maintenir notre core banking.
+Analyste BI : modélisation en étoile, ETL avec Talend et reporting Tableau.
+Incident responder with forensic skills to investigate ransomware attacks. OSCP is a plus.
+Ingénieur plateforme pour industrialiser nos déploiements Docker et Helm sur OpenShift.
+Développeur Flutter pour une application de santé connectée, iOS et Android.
+Statisticien pour l'analyse des données d'enquêtes et la construction de modèles prédictifs.
+Expert IAM pour déployer une solution de gestion des identités et du MFA sur 5000 utilisateurs.
+FinOps engineer pour réduire la facture AWS et mettre en place le tagging des ressources.
+Software engineer C# .NET Core pour développer des microservices dans une équipe agile.
+Notre équipe Data recrute un stagiaire pour nettoyer et analyser des données de capteurs IoT avec Python et Pandas.
+Recherche RSSI pour définir la stratégie cybersécurité du groupe et piloter les audits.
+Ingénieur systèmes Linux pour automatiser l'administration avec Ansible et migrer vers le cloud.
+Full stack developer: Next.js, Django, REST APIs. Join a fast growing startup in Tangier.
+Ingénieur IA générative pour construire un assistant RAG sur la documentation interne.
+Nous recrutons une personne pour fiabiliser nos mises en production et réduire les temps d'indisponibilité de nos services hébergés.
+Développeur de modèles prédictifs pour anticiper la consommation électrique à partir de séries temporelles.
+Développeur sécurité applicative : revue de code, correction des failles et modélisation des menaces.
+Ingénieur chargé de la protection des données personnelles et de la réponse aux attaques informatiques.
+Ingénieur chargé d'automatiser l'hébergement de nos services sur des machines virtuelles managées et des conteneurs.
+Créer des interfaces utilisateur accessibles et performantes pour notre site, en lien avec les designers.
+Expert en analyse prédictive et visualisation pour aider la direction à piloter les ventes.
+Spécialiste chargé de détecter les intrusions et de bloquer les logiciels malveillants sur le réseau de l'entreprise.
